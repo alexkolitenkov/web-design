@@ -5,4 +5,4 @@
 
 Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.
 
-[Репозиторій, Лабораторна №1](https://github.com/alexkolitenkov/web-design/tree/main/lab1)
+[Звіт, Лабораторна №1](https://docs.google.com/document/d/1Xla1mbGvMHSI3n0g12uB46T7K_jui25T2ey4Ljm7dGg/edit?usp=sharing)
