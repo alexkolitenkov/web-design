@@ -1,8 +1,6 @@
 # web-design
 Колітенков Олександр Олексійович, група КВ-92
 
-Розробка статичного інтерфейсу Web-додатка
-
-Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.
 
 [Звіт, Лабораторна №1](https://docs.google.com/document/d/1Xla1mbGvMHSI3n0g12uB46T7K_jui25T2ey4Ljm7dGg/edit?usp=sharing)
+[Звіт, Лабораторна №2](https://docs.google.com/document/d/1X3_zGkfm7zqMMejtQkozI886pIDreCF6rFkxiofmpsg/edit?usp=sharing)
