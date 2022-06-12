@@ -1,0 +1,84 @@
+@media screen and (max-width: 992px) {
+    .custom-nav-ul {
+        flex-direction: column;
+    }
+    .nav-custom-item-margin {
+        margin-bottom: 10px;
+    }
+    .display-reverse{
+        flex-direction: column-reverse;
+    }
+}
+@media screen and (max-width: 580px) {
+    a.lists-link {
+        font-size: 13px;
+    }
+}
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+.collapse-flex-grow-0{
+    flex-grow: 0;
+}
+.nav-back{
+    background-color: rgb(0, 0, 0);
+}
+.nav-link-color{
+    color: white;
+}
+.nav-link-color:focus, .nav-link-color:hover {
+    color: rgb(39, 39, 20);
+}
+.nav-button{
+    padding: 0;
+}
+
+.main-features{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+img.image-features-rounded{
+    border-radius: 10%;
+}
+.jumbotron{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 75%, rgba(255,255,255,1) 100%);
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: white;
+}
+ .get-started-btn{
+    border-radius: 40px;
+}
+
+.section-divider{
+    background-color: #dbdfff;
+}
+section.about-memento{
+    background-color: rgb(252, 105, 98);
+    color: white;
+}
+.about-momento{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+.underline {
+    border-bottom: 4px solid currentColor;
+  }
+.gradient-custom{
+    background-image: url(images/3.jfif);
+}
+a.lists-link{
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+a.lists-link:hover, a.lists-link:focus{
+    text-decoration: underline;
+}
+
+main.container{
+    font-family: 'Montserrat', sans-serif;
+}
+
